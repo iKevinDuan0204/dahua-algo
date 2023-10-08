@@ -1,7 +1,7 @@
-#include "data_structure.h"
+#ifndef DAHUA_ALGO_SORT_H
+#define DAHUA_ALGO_SORT_H
 
-#ifndef TEST_LIB_DAHUA_ALGO_SORT_H
-#define TEST_LIB_DAHUA_ALGO_SORT_H
+#include "data_structure.h"
 
 void num_swap(num_seq *seq, int i, int j);
 
